@@ -1,5 +1,6 @@
 name: file_previewer
-description: Generate a thumbnail for a file based on the file extension. Uses the native files previewer on iOS.
+description: Generate a thumbnail for a file based on the file extension. Uses
+  the native files previewer on iOS.
 version: 0.1.0
 repository: https://github.com/DutchCodingCompany/file_preview
 
@@ -10,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pdfx: ^2.4.0
   path: ^1.8.3
+  pdfx: ^2.6.0
 
 dev_dependencies:
   flutter_lints: ^2.0.2
